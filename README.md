@@ -1,6 +1,6 @@
 <!-- Banner ou imagem opcional -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=180&section=header&text=Olá!%20Eu%20sou%20o%20Bruno%20👋&fontSize=30&fontColor=6704a3" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=180&section=header&text=Olá!%20Eu%20sou%20o%20Bruno%20👋&fontSize=30&fontColor=ffff" />
 </p>
 
 <!-- Apresentação -->
