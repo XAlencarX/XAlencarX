@@ -1,7 +1,8 @@
 <!-- Banner ou imagem opcional -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=180&section=header&text=Olá!%20Eu%20sou%20o%20Bruno%20👋&fontSize=30&fontColor=ffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6704A3&height=180&section=header&text=Olá!%20Eu%20sou%20o%20Bruno%20👋&fontSize=30&fontColor=ffff" />
 </p>
+
 
 <!-- Apresentação -->
 ## 👨‍💻 Sobre mim
@@ -47,5 +48,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6704A3&height=120&section=footer"/>
 </p>
